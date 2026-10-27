@@ -1,0 +1,16 @@
+# Salida de Maven (reportes de Karate y karate.log, que incluye el token en texto plano)
+target/
+
+# Secretos locales
+.env
+*.env
+
+# IDEs y editores
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
